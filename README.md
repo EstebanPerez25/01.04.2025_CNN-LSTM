@@ -1,0 +1,2 @@
+# 01.04.2025_CNN-LSTM
+Clase Modelos y TDA - 01/04/2025
